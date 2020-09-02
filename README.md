@@ -16,3 +16,5 @@ If you have a CUDA enabled GPU you can install the GPU version of TensorFlow. Re
 ```console
 pip install tensorflow-gpu
 ```
+## Contributors
+- <a href="https://github.com/Soumya007-developer">Soumya Ranjan Ram</a>
